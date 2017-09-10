@@ -13,6 +13,8 @@ from bs4 import BeautifulSoup
 
 import html.parser
 
+import re
+
 def main():
     # *********  Open chrome driver and type the website that you want to view ***********************
 
@@ -58,33 +60,45 @@ def main():
     
     # ****************   Find all <nonscript> nodes and store them   *****************************************
     with open("./output/rawfile/noscript_meta.txt", 'w', encoding='utf-8') as noscript_meta:
-        noscript_nodes = result_soup.find_all('noscript') # 找到所有<noscript>node
-        noscript_inner_all = ""
-        for noscript in noscript_nodes:
-            noscript_inner = noscript['src'] # 获取<noscript>node内部内容
-            noscript_inner_all += noscript_inner + "\n"
-
-        noscript_all = html.parser.unescape(noscript_inner_all) #  将内部内容转码并存储
-        noscript_meta.write(noscript_all)
+        with open("./output/rawfile/raw_result.txt", 'r', encoding='utf-8') as girls:
+            a= girls.read()
+            str1=str(a)
+        
+            r=re.findall(r'<img class="origin_image zh-lightbox-thumb" data-original="(https://.+\.jpg)" data-rawheight="[0-9]+" data-rawwidth="[0-9]+" src="(https://.+\.jpg)"',str1)
+            noscript_inner_all = ""
+            for url in r:
+                noscript_inner_all+=(url[0]+'\n')
+            
+            noscript_all = html.parser.unescape(noscript_inner_all) #  将内部内容转码并存储
+            noscript_meta.write(noscript_inner_all)
+         
+#        noscript_nodes = result_soup.find_all('noscript') # 找到所有<noscript>node
+#        noscript_inner_all = ""
+#        for noscript in noscript_nodes:
+#            noscript_inner = noscript['src'] # 获取<noscript>node内部内容
+#            noscript_inner_all += noscript_inner + "\n"
+#
+#        noscript_all = html.parser.unescape(noscript_inner_all) #  将内部内容转码并存储
+#        noscript_meta.write(noscript_all)
 
     noscript_meta.close()
     print("Store noscript meta data successfully!!!")
     
      # ****************   Store meta data of imgs  *****************************************
-    img_soup = BeautifulSoup(noscript_all, 'html.parser')
-    img_nodes = img_soup.find_all('img')
+#    img_soup = BeautifulSoup(noscript_all, 'html.parser')
+#    img_nodes = img_soup.find_all('img')
     with open("./output/rawfile/img_meta.txt", 'w') as img_meta:
-        count = 0
-        for img in img_nodes:
-            if img.get('src') is not None:
-                img_url = img.get('src')
+        with open("./output/rawfile/noscript_meta.txt", 'r', encoding='utf-8') as noscript_meta:
+            count = 0
+            for eachline in noscript_meta:
+                if eachline is not None:
+                    img_url = eachline
+    
+                    line = str(count) + "\t" + img_url + "\n"
+                    img_meta.write(line)
+                    urllib.request.urlretrieve(img_url, "./output/image/" + str(count) + ".jpg")  # 一个一个下载图片
+                    count += 1
 
-                line = str(count) + "\t" + img_url + "\n"
-                img_meta.write(line)
-                urllib.request.urlretrieve(img_url, "./output/image/" + str(count) + ".jpg")  # 一个一个下载图片
-                count += 1
-
-    img_meta.close()
     print("Store meta data and images successfully!!!")
     
 if __name__ == '__main__':
