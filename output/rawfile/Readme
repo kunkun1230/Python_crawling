@@ -1,0 +1,6 @@
+爬取知乎妹纸图
+几个关键的知识点：
+1.webdriver
+2.selenium
+3.BeautifulSoup中如何找的noscript，并以较简便的方式找到并生成'src'链接
+4.图片最后是如何批量下载的
