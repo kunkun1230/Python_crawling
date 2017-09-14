@@ -38,11 +38,10 @@ def main():
     
     with codecs.open('movies', 'w', encoding='utf-8') as fp:
         while url:
-            a=[]
             html = download_page(url)
             movies, url = parse_html(html)
             for i in movies:
-                fp.write(i+'\n')
+                fp.write(i+'\n') #这里fp一直是保持打开并写入状态，因此结果不会被冲掉
             # fp.write(u'{movies}\n'.format(movies='\n'.join(movies)))
 
 if __name__=='__main__':
