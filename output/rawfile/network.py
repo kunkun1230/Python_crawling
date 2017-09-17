@@ -34,10 +34,10 @@ def main():
     def execute_times(times):
 
         for i in range(times):
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") #解释链接http://selenium-python.readthedocs.io/faq.html?highlight=execute_script
             time.sleep(2)
             try:
-                driver.find_element_by_css_selector('button.QuestionMainAction').click()
+                driver.find_element_by_css_selector('button.QuestionMainAction').click() #http://selenium-python.readthedocs.io/locating-elements.html
                 print("page" + str(i))
                 time.sleep(1)
             except:
