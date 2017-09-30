@@ -5,19 +5,7 @@ Created on Wed Sep 20 23:05:07 2017
 @author: lenovo
 """
 
-'''
-Required
-- requests (必须)
-- pillow (可选)
-Info
-- author : "xchaoinfo"
-- email  : "xchaoinfo@qq.com"
-- date   : "2016.2.4"
-Update
-- name   : "wangmengcn"
-- email  : "eclipse_sv@163.com"
-- date   : "2016.4.21"
-'''
+
 import requests
 try:
     import cookielib
@@ -102,8 +90,8 @@ def login(secret, account):
         post_url = 'https://www.zhihu.com/login/phone_num'
         postdata = {
             '_xsrf': _xsrf,
-            'password': 31415926,
-            'phone_num': '18007177686'
+            'password': secret,
+            'phone_num': account
         }
     else:
         if "@" in account:
@@ -114,8 +102,8 @@ def login(secret, account):
         post_url = 'https://www.zhihu.com/login/email'
         postdata = {
             '_xsrf': _xsrf,
-            'password': 31415926,
-            'email': 'chengkun1230@163.com'
+            'password': secret,
+            'email': account
         }
     # 不需要验证码直接登录成功
     login_page = session.post(post_url, data=postdata, headers=headers)
