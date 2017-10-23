@@ -28,7 +28,7 @@ headers = {
     'Referer':'https://www.zhihu.com/',
     'Upgrade-Insecure-Requests':'1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3192.0 Safari/537.36',
-}#这里如果一开始就出现302的错误，需替换最新的headers
+}#这里如果一开始就出现302的错误，需替换最新的Cookie
 
 HostUrl = 'http://www.zhihu.com'
 FollowerUrl = 'https://www.zhihu.com/question/22390958/followers'
