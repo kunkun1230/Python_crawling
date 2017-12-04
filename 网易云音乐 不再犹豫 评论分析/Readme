@@ -1,0 +1,3 @@
+不再犹豫下的评论爬取
+解决了TypeError: can't concat bytes to str的错误
+相关位置替换为自己想下载的音乐链接和headers即可完成音乐评论爬取
