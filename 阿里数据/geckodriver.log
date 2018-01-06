@@ -1,0 +1,226 @@
+1514217448951	geckodriver	INFO	geckodriver 0.18.0
+1514217448964	geckodriver	INFO	Listening on 127.0.0.1:63886
+1514217451006	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514217451759	Marionette	INFO	Enabled via --marionette
+1514217452969	Marionette	INFO	Listening on port 63892
+1514217453031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514217453078	Marionette	DEBUG	Register listener.js for window 4294967297
+1514217453103	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514217453445	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514217453446	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514217453585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm#page/1"
+1514217454002	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm#page/1"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+1514217454261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514217456500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+1514991830300	geckodriver	INFO	geckodriver 0.18.0
+1514991830318	geckodriver	INFO	Listening on 127.0.0.1:62499
+1514991832143	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514991833071	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514991834518	Marionette	INFO	Listening on port 62505
+1514991835271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514991835343	Marionette	DEBUG	Register listener.js for window 4294967297
+1514991835362	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514991835662	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514991835663	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514991835835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+1514991836117	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+1514991836403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514991838658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514991930343	geckodriver	INFO	geckodriver 0.18.0
+1514991930353	geckodriver	INFO	Listening on 127.0.0.1:62573
+1514991932408	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514991933147	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514991934395	Marionette	INFO	Listening on port 62579
+1514991934436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514991934492	Marionette	DEBUG	Register listener.js for window 4294967297
+1514991934518	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514991934842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514991934842	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514991935052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+1514991935276	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+1514991935570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514991937832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514992061036	geckodriver	INFO	geckodriver 0.18.0
+1514992061049	geckodriver	INFO	Listening on 127.0.0.1:62640
+1514992063099	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514992063838	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514992065064	Marionette	INFO	Listening on port 62646
+1514992065120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514992065168	Marionette	DEBUG	Register listener.js for window 4294967297
+1514992065188	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514992065488	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514992065488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514992065708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+1514992065951	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+1514992066180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514992068441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514992090564	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/2"
+1514992100682	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/3"
+1514992110767	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/4"
+1514992120839	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/5"
+1514992130917	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/6"
+1514992141000	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/7"
+1514992151080	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/8"
+1514992161126	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/9"
+1514992171205	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/10"
+1514992181291	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/11"
+1514992191360	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/12"
+1514992201439	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/13"
+1514992211523	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/14"
+1514992221591	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/15"
+1514992231656	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/16"
+1514992241706	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/17"
+1514992251745	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/18"
+1514992261811	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/19"
+1514992271855	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/20"
+1514992281944	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/21"
+1514992291989	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/22"
+1514992302055	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/23"
+1514992312125	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/24"
+1514992322184	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/25"
+1514992332250	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/26"
+1514992342326	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/27"
+1514992352390	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/28"
+1514992362463	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/29"
+1514992372530	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/30"
+1514992382611	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/31"
+1514992392695	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/32"
+1514992402773	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/33"
+1514992412840	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/34"
+1514992422920	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/35"
+1514992433000	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/36"
+1514992443053	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/37"
+1514992453089	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/38"
+1514992463123	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/39"
+1514992473168	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/40"
+1514992483211	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/41"
+1514992493260	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/42"
+[Parent 21984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514993112719	geckodriver	INFO	geckodriver 0.18.0
+1514993112731	geckodriver	INFO	Listening on 127.0.0.1:52762
+1514993114737	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514993115507	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514993116889	Marionette	INFO	Listening on port 57648
+1514993117861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514993117912	Marionette	DEBUG	Register listener.js for window 4294967297
+1514993117925	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514993125243	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514993125243	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514993125720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+1514993125915	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+1514993126220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514993128475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514993150599	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/2"
+1514993160644	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/3"
+[Parent 16908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514993214666	geckodriver	INFO	geckodriver 0.18.0
+1514993214679	geckodriver	INFO	Listening on 127.0.0.1:57346
+1514993216702	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514993217449	Marionette	INFO	Enabled via --marionette
+1514993218711	Marionette	INFO	Listening on port 57352
+1514993218728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514993218781	Marionette	DEBUG	Register listener.js for window 4294967297
+1514993218811	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514993219143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514993219144	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514993219363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+1514993219720	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/1"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+1514993220010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514993222272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514993244406	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/2"
+1514993254480	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/3"
+1514993264559	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/4"
+1514993274614	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/5"
+1514993284665	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/6"
+1514993294746	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/7"
+1514993304842	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/8"
+1514993314923	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/9"
+1514993325006	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/10"
+1514993335069	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/11"
+1514993345154	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/12"
+1514993355240	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/13"
+1514993365320	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/14"
+1514993375365	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/15"
+1514993385413	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/16"
+1514993395464	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/17"
+1514993405559	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/18"
+1514993415645	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/19"
+1514993425718	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/20"
+1514993435788	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/21"
+1514993445843	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/22"
+1514993455901	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/23"
+1514993465976	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/24"
+1514993476049	Marionette	DEBUG	Received DOM event "popstate" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=JXU2NTcwJXU2MzZF&_input_charset=UTF-8#page/25"
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
