@@ -144,7 +144,7 @@ if __name__ == '__main__':
           'positionLables','longitude','latitude','firstType','secondType','companyFullName',
           'link','Willing','feedback','feedback_time','Response','Resume_Percent','Handele_time','Active',
           'Time_zone','Clock']
-    for item in range(len(row0)):
+    for item in range(len(row0)): #将索引写入excel
         sheet1.write(0,item,row0[item])
     Jobs=[]
     for i in range(0,30):
@@ -157,7 +157,7 @@ if __name__ == '__main__':
     print('开始写入excel')
     for j in range(len(Jobs)):
         print('写入第%s行数据'%j)
-        for k in range(len(Jobs[0])):
+        for k in range(len(Jobs[0])): #将爬取到的数据写入excel
             sheet1.write(j+1,k,str(Jobs[j][k]))
     
     f.save(r'E:\数据学习资料\自己做的小项目\爬取拉勾网数据\Jobs.xls')
