@@ -40,7 +40,7 @@ session = requests.session()
 #使用cookie信息加载
 session.cookies = cookielib.LWPCookieJar(filename='cookies')
 try:
-    session.cookies.load(ignore_discard=True)
+    session.cookies.load(ignore_discard=True)  #ignore_discard的意思是即使cookies将被丢弃也将它保存下来
 except:
     print("cookie加载失败")
 
