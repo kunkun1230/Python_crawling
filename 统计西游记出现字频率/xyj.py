@@ -31,11 +31,11 @@ for line in fr:
 
 
 
-stat = sorted(stat.items(),key=lambda d:d[1],reverse=True)
+stat = sorted(stat.items(),key=lambda d:d[1],reverse=True) #按照值来对整个词典进行排序
 print(type(stat))
 
 f2=open('stat.txt','w',encoding='utf-8')
 for each in stat:
-    f2.write(str(each[0])+','+str(each[1])+'\n')
+    f2.write(str(each[0])+','+str(each[1])+'\n') 
 
 f2.close()
