@@ -14,3 +14,6 @@
 爬取后得到的结果：{'title':'肖申 克的救赎'}
 
 注意对比
+
+scarpy startproject douban 创建程序
+scrapy crawl douban -o douban.csv 运行程序
