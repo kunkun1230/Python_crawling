@@ -1,0 +1,16 @@
+最近在学Scrapy，所以先用scrapy做了一个简单的爬取豆瓣电影250的小爬虫
+
+说明事项：
+1.scrapy中的Request和普通爬虫代码里的request一致，用来获取网页信息；
+2.resonse可以理解为request（url）.content
+3.parse相当于在response的基础上进行数据分析，处理
+
+在处理数据的过程中用到了一个函数extract（），对比一下效果
+
+没有用的时候，语句：item['title']=response.xpath("/html/body/div[3]/div[1]/div/div[1]/ol/li[1]/div/div[2]/div[1]/a/span[1]/text()")
+爬取后得到的结果：{'title': [<Selector xpath='/html/body/div[3]/div[1]/div/div[1]/ol/li[1]/div/div[2]/div[1]/a/span[1]/text()' data='肖申 克的救赎'>]}
+
+使用后，语句：item['title']=response.xpath("/html/body/div[3]/div[1]/div/div[1]/ol/li[1]/div/div[2]/div[1]/a/span[1]/text()").extract()[0]
+爬取后得到的结果：{'title':'肖申 克的救赎'}
+
+注意对比
