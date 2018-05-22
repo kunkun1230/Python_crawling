@@ -23,6 +23,6 @@
 * 明确了大方向后，逐一写出函数得到每个参数值，然后封装进login函数就可以实现登陆了
 
 * 技能点：<br>
-   * 加密：通过hmac和hashlib加密，获得signature；<br>
-   * 破解图片验证码（PIL包）与文字验证码（matplotlib）；<br>
-   * session的作用，获得cookies
+  * 加密：通过hmac和hashlib加密，获得signature；<br>
+  * 破解图片验证码（PIL包）与文字验证码（matplotlib获得文字坐标）；<br>
+  * session的作用，获得cookies
