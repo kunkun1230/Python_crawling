@@ -4,7 +4,7 @@
 
 首先，用一个流程图说明整个登录的过程
 
-![描述](file:///C:/Users/lenovo/Desktop/Zhihu-Login-master/Zhihu-login-update%2020180522/Screenshots/1.png)
+![描述](http://pic1.sc.chinaz.com/files/pic/pic9/201804/wpic660.jpg)
 
 
 能够成功的登录知乎，向网页post所需的数据（headers和login_data）是关键，其中headers和login_data所必须的Key word如下：
