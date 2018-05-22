@@ -2,16 +2,16 @@
 
 知乎的网页格式又更新了
 
-针对这一情况，进一步改进了一下知乎的登录代码
+针对最近的网页结构，进一步改进了一下知乎的登录代码
 
-首先，用一个流程图说明整个登录的过程
+### 首先，用一个流程图说明整个登录的过程
 
 ![描述](http://pic1.sc.chinaz.com/files/pic/pic9/201804/wpic660.jpg)
 
 
-能够成功的登录知乎，向网页post所需的数据（headers和login_data）是关键，其中headers和login_data所必须的Key word如下：
+### 能够成功的登录知乎，向网页post所需的数据（headers和login_data）是关键，其中headers和login_data所必须的Key word如下：
 
-![描述](https://github.com/kunkun1230/Python/tree/master/%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E/Zhihu-login-update%2020180522/Screenshots/2.png)
+![描述](/Zhihu-login-update%2020180522/Screenshots/2.png)
 
 
 ![描述](https://github.com/kunkun1230/Python/tree/master/%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E/Zhihu-login-\update%2020180522/Screenshots/3.png)
