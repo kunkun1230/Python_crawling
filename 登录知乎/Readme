@@ -7,7 +7,8 @@
 
 能够成功的登录知乎，向网页post所需的数据（headers和login_data）是关键，其中headers和login_data所必须的Key word如下：
 
-![headers](https://github.com/kunkun1230/Python/tree/master/%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E/Zhihu-login-update%2020180522/Screenshots/2.png)
+![headers]
+(https://github.com/kunkun1230/Python/tree/master/%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E/Zhihu-login-update%2020180522/Screenshots/2.png)
 
 ![headers](https://github.com/kunkun1230/Python/tree/master/%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E/Zhihu-login-update%2020180522/Screenshots/3.png)
 
