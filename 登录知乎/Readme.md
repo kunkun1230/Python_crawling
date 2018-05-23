@@ -2,7 +2,7 @@
 
 知乎的网页格式又更新了
 
-针对最近的网页结构，进一步改进了一下知乎的登录代码
+针对最近的网页结构，进一步改进了一下知乎的登录代码并附上一个[爬去知乎回答的代码](https://github.com/kunkun1230/Python_crawling/tree/master/%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E/Zhihu-login-update%2020180522)
 
 * 首先，用一个流程图说明整个登录的过程
 
